@@ -1,2 +1,5 @@
 # python-
 ### hello
+```
+print ("hello")
+```
